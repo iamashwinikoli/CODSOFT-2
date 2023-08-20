@@ -1,0 +1,46 @@
+body
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:aquamarine;
+    text-align: center;
+}
+header
+{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+.content
+{
+    max-width: 800%;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color:aquamarine;
+    box-shadow: 0px,0px,10px rgba(0, 0, 0, 0.1);
+}
+img
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+.qualities
+{
+    font-style: italic;
+    color: #555;
+}
+footer
+{
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+}
+.clip-circle
+{
+    clip-path: circle(50% at 50% 50%);
+}
